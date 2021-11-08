@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259691758095",
+    "firebase_url": "https://pasemov-default-rtdb.firebaseio.com",
+    "project_id": "pasemov",
+    "storage_bucket": "pasemov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259691758095:android:fd4d63d389182839aa997a",
+        "android_client_info": {
+          "package_name": "com.proyecto.pasemov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259691758095-a80jddjig73vc7hv813dn3s911kdaqg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ1kuLjLETop9tBeq8JgbON0kD4ATRufQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259691758095-a80jddjig73vc7hv813dn3s911kdaqg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
