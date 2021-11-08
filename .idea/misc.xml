@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/activity_main.xml" value="0.2658514492753623" />
         <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/activity_pantalla1.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/activity_upload.xml" value="0.23596014492753623" />
         <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/app_bar_pantalla1.xml" value="0.22395833333333334" />
         <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/content_pantalla1.xml" value="0.17864583333333334" />
         <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/layout/fragment_home.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/menu/activity_main_drawer.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/menu/pantalla1.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/menu/pantalla2.xml" value="0.39427083333333335" />
+        <entry key="..\:/Users/seba/AndroidStudioProjects/PaseMov/app/src/main/res/menu/popup_menu.xml" value="0.39427083333333335" />
       </map>
     </option>
   </component>
